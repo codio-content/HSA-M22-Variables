@@ -1,0 +1,29 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Variables are named containers that store a value.  A program can have as many variables as needed to store data but aggregating data across many variables can be difficult.
+
+
+Another way to store information is by using a list or array.  In this case, a single variable name contains multiple data points.  The individual data can be referenced by their location in the list.

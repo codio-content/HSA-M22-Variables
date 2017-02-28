@@ -1,0 +1,30 @@
+[
+ {
+  "taskId": "fill-in-the-blanks-3098182283",
+  "points": 0,
+  "state": {
+   "active": []
+  },
+  "results": []
+ },
+ {
+  "taskId": "fill-in-the-blanks-734990205",
+  "points": 1,
+  "state": {
+   "active": [
+    "27"
+   ]
+  },
+  "results": [
+   {
+    "current": [
+     "27"
+    ],
+    "right": [
+     "27"
+    ],
+    "timestamp": 1484246408675
+   }
+  ]
+ }
+]
